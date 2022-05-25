@@ -1,7 +1,9 @@
 # useCounter Hook
 
 Entre (``` codigo ```) indicamos que se colocara ejemplo de uso del hook 
-en código para que el lector comprenda mejor como funciona
+a modo de código para que el lector comprenda mejor como funciona, ademas
+en git hub se mostrara el contenido entre commillas como un area para copear
+por completo y tambien con marco separador del resto del texto
 
 Ejemplo de uso de nuestro hook :
 ```
